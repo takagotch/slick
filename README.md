@@ -2,7 +2,7 @@
 ---
 https://github.com/kenwheeler/slick
 
-```
+```sh
 bower install --save slick-carousel
 npm install slick-carousel
 ```
